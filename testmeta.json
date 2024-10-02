@@ -1,11 +1,15 @@
 {
   "clientversion": "11",
-  "translatehash": "00e3d756514295adf34fc33ad5cb7563",
+  "translatehash": "afe0d3cf3fec96c5a02f9fad87ea961a",
   "urldownloadtranslate": "https://wutheringwaves.ru/pak/pakchunk0-1.0.0-1.1.0-WindowsNoEditor_10000_P.pak",
   "updateclienturl": "https://t.me/wutheringwaves/2182",
   "filename": "pakchunk0-1.0.0-1.1.0-WindowsNoEditor_10000_P.pak",
-  "voicetranslatehash": "cadec9f15030713a726570f71bf8a319",
+  "voicetranslatehash": "a4cde716c6130252f5e5d62d88cfbf90",
   "voiceurldownloadtranslate": "https://wutheringwaves.ru/pak/pakchunk0-1.0.0-1.1.0-WindowsNoEditor_10005_P.pak",
   "voicefilename": "pakchunk0-1.0.0-1.1.0-WindowsNoEditor_10005_P.pak",
-  "persistentservermessage":"testcriticalmessage"
+  "persistentservermessage":"ПОДКЛЮЧЕНО К ТЕСТОВОМУ СЕРВЕРУ",
+  "shippinghash": "6a718b263f8849c688b405d3661ad24f",
+  "hookpakhash": "84c72a58e68a20a642865f53afd6b277",
+  "hookpakurl": "https://wutheringwaves.ru/pak/hookpak",
+  "hookpakdllname": "patch.dll",
 }
