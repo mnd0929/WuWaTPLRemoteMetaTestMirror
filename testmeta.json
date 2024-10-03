@@ -11,5 +11,6 @@
   "shippinghash": "6a718b263f8849c688b405d3661ad24f",
   "hookpakhash": "84c72a58e68a20a642865f53afd6b277",
   "hookpakurl": "https://wutheringwaves.ru/pak/hookpak",
-  "hookpakdllname": "patch.dll"
+  "hookpakdllname": "patch.dll",
+  "removepaksmessage": "Тест удаленного отключения паков"
 }
