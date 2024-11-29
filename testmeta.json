@@ -8,6 +8,7 @@
    "voiceurldownloadtranslate":"https://wutheringwaves.ru/pak/pakchunk0-1.0.0-1.1.0-WindowsNoEditor_10005_P.pak",
    "voicefilename":"pakchunk0-1.0.0-1.1.0-WindowsNoEditor_10005_P.pak",
    "persistentservermessage":"ПОДКЛЮЧЕНО К ТЕСТОВОМУ СЕРВЕРУ",
+   "removepaksmessage":"Тест удаленного отключения модификаций",
    "shippinghash":"6f5e99195664cdef4d2e444005eb0b66",
    "hookpakhash":"55cc63f9e2ddf57295596987ecd2510f",
    "hookpakurl":"https://github.com/mnd0929/WuWaTPLRemoteMetaTestMirror/raw/refs/heads/main/pak/hookpak"
