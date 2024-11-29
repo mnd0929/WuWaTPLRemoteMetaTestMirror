@@ -1,15 +1,15 @@
 {
-  "clientversion": "11",
-  "translatehash": "e5bc99f2622eae97a92cfb5b1bc9c6e7",
-  "urldownloadtranslate": "https://wutheringwaves.ru/pak/pakchunk0-1.0.0-1.1.0-WindowsNoEditor_10000_P.pak",
-  "updateclienturl": "https://t.me/wutheringwaves/2182",
-  "filename": "pakchunk0-1.0.0-1.1.0-WindowsNoEditor_10000_P.pak",
-  "voicetranslatehash": "bf7dbade070e3dd3c09ef26a257860b5",
-  "voiceurldownloadtranslate": "https://wutheringwaves.ru/pak/pakchunk0-1.0.0-1.1.0-WindowsNoEditor_10005_P.pak",
-  "voicefilename": "pakchunk0-1.0.0-1.1.0-WindowsNoEditor_10005_P.pak",
-  "persistentservermessage":"ПОДКЛЮЧЕНО К ТЕСТОВОМУ СЕРВЕРУ",
-  "shippinghash": "6f5e99195664cdef4d2e444005eb0b66,e5cf516de9f6a250c8990e1191911bc4",
-  "hookpakhash": "84c72a58e68a20a642865f53afd6b277",
-  "hookpakurl": "https://wutheringwaves.ru/pak/hookpak",
-  "hookpakdllname": "patch.dll"
+   "clientversion":"14",
+   "translatehash":"f6f4180f0370fcc511ec5bb9f1acc75b",
+   "urldownloadtranslate":"https://wutheringwaves.ru/pak/pakchunk0-1.0.0-1.1.0-WindowsNoEditor_10000_P.pak",
+   "updateclienturl":"https://t.me/wutheringwaves/2289",
+   "filename":"pakchunk0-1.0.0-1.1.0-WindowsNoEditor_10000_P.pak",
+   "voicetranslatehash":"bf7dbade070e3dd3c09ef26a257860b5",
+   "voiceurldownloadtranslate":"https://wutheringwaves.ru/pak/pakchunk0-1.0.0-1.1.0-WindowsNoEditor_10005_P.pak",
+   "voicefilename":"pakchunk0-1.0.0-1.1.0-WindowsNoEditor_10005_P.pak",
+   "persistentservermessage":"ПОДКЛЮЧЕНО К ТЕСТОВОМУ СЕРВЕРУ",
+   "shippinghash":"6f5e99195664cdef4d2e444005eb0b66",
+   "hookpakhash":"e5cf516de9f6a250c8990e1191911bc4",
+   "hookpakurl":"https://github.com/mnd0929/WuWaTPLRemoteMetaTestMirror/raw/refs/heads/main/pak/hookpak",
+   "hookpakdllname":"patch.dll"
 }
