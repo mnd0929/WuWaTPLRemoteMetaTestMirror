@@ -10,6 +10,5 @@
    "persistentservermessage":"ПОДКЛЮЧЕНО К ТЕСТОВОМУ СЕРВЕРУ",
    "shippinghash":"6f5e99195664cdef4d2e444005eb0b66",
    "hookpakhash":"e5cf516de9f6a250c8990e1191911bc4",
-   "hookpakurl":"https://github.com/mnd0929/WuWaTPLRemoteMetaTestMirror/raw/refs/heads/main/pak/hookpak",
-   "hookpakdllname":"patch.dll"
+   "hookpakurl":"https://github.com/mnd0929/WuWaTPLRemoteMetaTestMirror/raw/refs/heads/main/pak/hookpak"
 }
